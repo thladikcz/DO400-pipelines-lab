@@ -14,7 +14,6 @@ pipeline {
 
  parallel {
 
- ...output omitted...
 
  stage('Integration tests') {
 
